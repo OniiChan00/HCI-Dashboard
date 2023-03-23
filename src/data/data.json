@@ -1,0 +1,272 @@
+[
+      {
+        "Model": "amc ambassador dpl",
+        "Origin": "US",
+        "Year": 70,
+        "Cylinders": 8,
+        "Horsepower": 190,
+        "MPG": 15,
+        "Weight": "3,850"
+      },
+      {
+        "Model": "chevrolet vega (sw)",
+        "Origin": "US",
+        "Year": 71,
+        "Cylinders": 4,
+        "Horsepower": 72,
+        "MPG": 22,
+        "Weight": "2,408"
+      },
+      {
+        "Model": "chevrolet vega",
+        "Origin": "US",
+        "Year": 72,
+        "Cylinders": 4,
+        "Horsepower": 90,
+        "MPG": 20,
+        "Weight": "2,408"
+      },
+      {
+        "Model": "ford pinto runabout",
+        "Origin": "US",
+        "Year": 72,
+        "Cylinders": 4,
+        "Horsepower": 86,
+        "MPG": 21,
+        "Weight": "2,226"
+      },
+      {
+        "Model": "mazda rx2 coupe",
+        "Origin": "Japan",
+        "Year": 72,
+        "Cylinders": 3,
+        "Horsepower": 97,
+        "MPG": 19,
+        "Weight": "2,330"
+      },
+      {
+        "Model": "amc matador (sw)",
+        "Origin": "US",
+        "Year": 72,
+        "Cylinders": 8,
+        "Horsepower": 150,
+        "MPG": 15,
+        "Weight": "3,892"
+      },
+      {
+        "Model": "ford pinto (sw)",
+        "Origin": "US",
+        "Year": 72,
+        "Cylinders": 4,
+        "Horsepower": 86,
+        "MPG": 22,
+        "Weight": "2,395"
+      },
+      {
+        "Model": "dodge coronet custom",
+        "Origin": "US",
+        "Year": 73,
+        "Cylinders": 8,
+        "Horsepower": 150,
+        "MPG": 15,
+        "Weight": "3,777"
+      },
+      {
+        "Model": "toyota carina",
+        "Origin": "Japan",
+        "Year": 73,
+        "Cylinders": 4,
+        "Horsepower": 88,
+        "MPG": 20,
+        "Weight": "2,279"
+      },
+      {
+        "Model": "chevrolet vega",
+        "Origin": "US",
+        "Year": 73,
+        "Cylinders": 4,
+        "Horsepower": 72,
+        "MPG": 21,
+        "Weight": "2,401"
+      },
+      {
+        "Model": "datsun 610",
+        "Origin": "Japan",
+        "Year": 73,
+        "Cylinders": 4,
+        "Horsepower": 94,
+        "MPG": 22,
+        "Weight": "2,379"
+      },
+      {
+        "Model": "ford pinto",
+        "Origin": "US",
+        "Year": 73,
+        "Cylinders": 4,
+        "Horsepower": 85,
+        "MPG": 19,
+        "Weight": "2,310"
+      },
+      {
+        "Model": "chevrolet chevelle malibu classic",
+        "Origin": "US",
+        "Year": 74,
+        "Cylinders": 6,
+        "Horsepower": 100,
+        "MPG": 16,
+        "Weight": "3,781"
+      },
+      {
+        "Model": "buick century",
+        "Origin": "US",
+        "Year": 75,
+        "Cylinders": 6,
+        "Horsepower": 110,
+        "MPG": 17,
+        "Weight": "3,907"
+      },
+      {
+        "Model": "chevroelt chevelle malibu",
+        "Origin": "US",
+        "Year": 75,
+        "Cylinders": 6,
+        "Horsepower": 105,
+        "MPG": 16,
+        "Weight": "3,897"
+      },
+      {
+        "Model": "plymouth fury",
+        "Origin": "US",
+        "Year": 75,
+        "Cylinders": 6,
+        "Horsepower": 95,
+        "MPG": 18,
+        "Weight": "3,785"
+      },
+      {
+        "Model": "amc matador",
+        "Origin": "US",
+        "Year": 76,
+        "Cylinders": 8,
+        "Horsepower": 120,
+        "MPG": 15.5,
+        "Weight": "3,962"
+      },
+      {
+        "Model": "mercedes-benz 280s",
+        "Origin": "Europe",
+        "Year": 76,
+        "Cylinders": 6,
+        "Horsepower": 120,
+        "MPG": 16.5,
+        "Weight": "3,820"
+      },
+      {
+        "Model": "chevrolet caprice classic",
+        "Origin": "US",
+        "Year": 77,
+        "Cylinders": 8,
+        "Horsepower": 145,
+        "MPG": 17.5,
+        "Weight": "3,880"
+      },
+      {
+        "Model": "chevrolet caprice classic",
+        "Origin": "US",
+        "Year": 79,
+        "Cylinders": 8,
+        "Horsepower": 130,
+        "MPG": 17,
+        "Weight": "3,840"
+      },
+      {
+        "Model": "mercury grand marquis",
+        "Origin": "US",
+        "Year": 79,
+        "Cylinders": 8,
+        "Horsepower": 138,
+        "MPG": 16.5,
+        "Weight": "3,955"
+      },
+      {
+        "Model": "dodge st. regis",
+        "Origin": "US",
+        "Year": 79,
+        "Cylinders": 8,
+        "Horsepower": 135,
+        "MPG": 18.2,
+        "Weight": "3,830"
+      },
+      {
+        "Model": "vw rabbit",
+        "Origin": "Europe",
+        "Year": 80,
+        "Cylinders": 4,
+        "Horsepower": 76,
+        "MPG": 41.5,
+        "Weight": "2,144"
+      },
+      {
+        "Model": "mazda glc",
+        "Origin": "Japan",
+        "Year": 80,
+        "Cylinders": 4,
+        "Horsepower": 65,
+        "MPG": 46.6,
+        "Weight": "2,110"
+      },
+      {
+        "Model": "vw pickup",
+        "Origin": "Europe",
+        "Year": 82,
+        "Cylinders": 4,
+        "Horsepower": 52,
+        "MPG": 44,
+        "Weight": "2,130"
+      },
+      {
+        "Model": "audi a80",
+        "Origin": "Europe",
+        "Year": 85,
+        "Cylinders": 4,
+        "Horsepower": 124,
+        "MPG": 19,
+        "Weight": "2,563"
+      },
+      {
+        "Model": "kia soul",
+        "Origin": "Korea",
+        "Year": 86,
+        "Cylinders": 4,
+        "Horsepower": 121,
+        "MPG": 19,
+        "Weight": "2,200"
+      },
+      {
+        "Model": "bmw 330",
+        "Origin": "Europe",
+        "Year": 88,
+        "Cylinders": 4,
+        "Horsepower": 149,
+        "MPG": 28,
+        "Weight": "2,599"
+      },
+      {
+        "Model": "hyundai elantra",
+        "Origin": "Korea",
+        "Year": 89,
+        "Cylinders": 4,
+        "Horsepower": 132,
+        "MPG": 22,
+        "Weight": "2,156"
+      },
+      {
+        "Model": "kia carnival",
+        "Origin": "Korea",
+        "Year": 90,
+        "Cylinders": 6,
+        "Horsepower": 144,
+        "MPG": 36,
+        "Weight": "3,567"
+      }
+]
